@@ -13,7 +13,7 @@
 ## 👋 Sobre mim
 - 🎓 18 anos · 3º ano do Ensino Médio Técnico em **Desenvolvimento Web** na **FIAP School**
 - 💼 Ex-estagiário de Suporte de TI (set/2025–abr/2026)
-- 🚀 Fundador da **SUDRA Technologies**
+- 🚀 Fundador da **[SUDRA Technologies](https://zdtecnologia.com.br)**
 - 🎯 Procurando **estágio ou vaga júnior** em desenvolvimento
 
 ## 🧰 Stack
@@ -28,7 +28,7 @@
 <td width="50%" valign="top"><a href="https://github.com/SudreScodeS/Ac2-showcase"><b>📱 AC02 · Elitium Ionic</b></a><br/><sub>App mobile com módulos do Elitium</sub><br/><br/><img src="https://skillicons.dev/icons?i=ionic,angular,firebase&theme=dark" height="28"/></td>
 </tr></table>
 
-🌐 Sites: [Elitium](https://sudrescodes.github.io/Elitium-Site/) · [EcoLife](https://sudrescodes.github.io/EcoLife/)
+🌐 Sites: [SUDRA Technologies](https://zdtecnologia.com.br) · [Elitium](https://sudrescodes.github.io/Elitium-Site/) · [EcoLife](https://sudrescodes.github.io/EcoLife/)
 
 ## 📊 GitHub
 <p align="center">
