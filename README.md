@@ -13,7 +13,7 @@
 ## 👋 Sobre mim
 - 🎓 18 anos · 3º ano do Ensino Médio Técnico em **Desenvolvimento Web** na **FIAP School**
 - 💼 Ex-estagiário de Suporte de TI (set/2025–abr/2026)
-- 🚀 Fundador da **ZD Tecnologia**
+- 🚀 Fundador da **SUDRA Technologies**
 - 🎯 Procurando **estágio ou vaga júnior** em desenvolvimento
 
 ## 🧰 Stack
