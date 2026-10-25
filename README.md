@@ -26,6 +26,9 @@
 </tr><tr>
 <td width="50%" valign="top"><a href="https://github.com/SudreScodeS/Checkmate-Defense-showcase"><b>♟️ Checkmate-Defense</b></a><br/><sub>Tower defense com peças de xadrez</sub><br/><br/><img src="https://skillicons.dev/icons?i=godot&theme=dark" height="28"/></td>
 <td width="50%" valign="top"><a href="https://github.com/SudreScodeS/Ac2-showcase"><b>📱 AC02 · Elitium Ionic</b></a><br/><sub>App mobile com módulos do Elitium</sub><br/><br/><img src="https://skillicons.dev/icons?i=ionic,angular,firebase&theme=dark" height="28"/></td>
+</tr><tr>
+<td width="50%" valign="top"><a href="https://github.com/SudreScodeS/GeSys-showcase"><b>🗓️ GeSys</b></a><br/><sub>Agenda multiempresa para clínicas, salões e consultorias</sub><br/><br/><img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,githubactions&theme=dark" height="28"/></td>
+<td width="50%" valign="top"></td>
 </tr></table>
 
 🌐 Sites: [SUDRA Technologies](https://zdtecnologia.com.br) · [Elitium](https://sudrescodes.github.io/Elitium-Site/) · [EcoLife](https://sudrescodes.github.io/EcoLife/)
